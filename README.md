@@ -17,7 +17,7 @@ Em estudo📚:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoaoGuiPS/JoaoGuiPS/blob/main/.github/workflows/snake.yml">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoaoGuiPS/JoaoGuiPS/blob/main/.github/workflows/snake.yml">
   <img alt="github contribution grid snake animation" src="https://github.com/JoaoGuiPS/JoaoGuiPS/blob/main/.github/workflows/snake.yml">
 </picture>
 
