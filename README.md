@@ -1,8 +1,6 @@
 ## Olá, Sou o João Guilherme 👋
 
 - 🔭 Cursando desenvolvimento de sistemas
-- 📚 Estou aprendendo C#
-- 🤔 Procurando ajuda para desnvolvimento de jogos
 - 📧 Contate-me e-mail: jgps.08042009@gmail.com
 
 <img aling="right" alt="Allan-Python" height="150" width="150" src="https://mystickermania.com/cdn/stickers/noob-pack/fallout-vault-boy-512x512.png">
