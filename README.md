@@ -12,5 +12,3 @@ Em estudo📚:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="90px" height="90px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="90px" height="90px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="90px" height="90px"/>
-          
-## Meu Gráfico de Contribuições 🐍
