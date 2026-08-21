@@ -3,7 +3,7 @@
 - 🔭 Cursando desenvolvimento de sistemas
 - 📧 Contate-me e-mail: jgps.08042009@gmail.com
 
-<img aling="right" alt="Allan-Python" height="150" width="150" src="https://mystickermania.com/cdn/stickers/noob-pack/fallout-vault-boy-512x512.png"> ![João Guilherme de Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGuiPS&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuiPS&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/JoaoGuiPS/github-readme-stats)
+<img aling="right" alt="Allan-Python" height="150" width="150" src="https://mystickermania.com/cdn/stickers/noob-pack/fallout-vault-boy-512x512.png">
 
 ##
 Em estudo📚:
